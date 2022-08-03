@@ -1,6 +1,6 @@
 {
   "name": "test-dependent-first",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Test package dependencies check",
   "main": "index.js",
   "scripts": {
